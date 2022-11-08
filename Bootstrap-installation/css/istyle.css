@@ -1,0 +1,78 @@
+body {
+  font-family: "Montserrat";
+  align-items: "right";
+}
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+#featurings{
+  padding:7% 5%;
+}
+.feature-box {
+  text-align: center;
+}
+#features {
+  background-color: #ff4c68;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+#lastt {
+  background-color: grey;
+}
+h1{
+font-family: 'Montserrat-Medium Italic', sans-serif;
+font-size: 3.3rem;
+line-height: 1.5;
+}
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
+.container-fluid{
+  padding: 3% 16%;
+}
+      /*  nav bar */
+
+    .navbar-brand {
+      font-family:"ubuntu";
+      font-size: 1.2rem;
+    }
+    .nav-item {
+      padding: 0 18px;
+    }
+   /* Download button */
+
+    .download-button {
+      margin: 0% 5% 5% 0%;
+    }
+      /* Image */
+
+      .title-image {
+        width: 25%;
+        border-radius: 100%;
+      }
+
+      .icon {
+        color: #ef8172;
+      }
+      .press-logo {
+      margin: 20px 20px 50px;
+      }
+      .icon:hover{
+        color: cyan;
+      }
+      #testimonials {
+        padding: 7% 5%;
+        text-align: center;
+        background-color: #ef8172;
+        color: white;
+      }
